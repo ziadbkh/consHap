@@ -1,0 +1,7 @@
+						consHAP
+
+Majority voting method to construct consensus haplotype estimator from multiple phased haplotypes.
+
+
+Please read the License before using consHAP.
+
