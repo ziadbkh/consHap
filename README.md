@@ -40,6 +40,12 @@ Details about SHAPEIT format are available here: https://mathgen.stats.ox.ac.uk/
  You can use the option **-GZ** for gzipped input and output files.   
 Details about EIGENSTRAT format are available here: https://reich.hms.harvard.edu/software/InputFileFormats.    
  
+# Citation
+If you use consHap in a published study, please mention the version of the tool and cite at least one of these articles:
+
+Al Bkhetan, Ziad, et al. "Exploring effective approaches for haplotype block phasing." BMC bioinformatics 20.1 (2019): 540.
+
+Al Bkhetan, Ziad, et al. "Evaluation of consensus strategies for haplotype phasing." Briefings in bioinformatics: bbaa280
 
 # Contact information
 For any help or inquiries, please contact: ziad.albkhetan@gmail.com.
